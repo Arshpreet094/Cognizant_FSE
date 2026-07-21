@@ -152,8 +152,8 @@ This repository represents my effort to learn every day, document my progress, a
 
 ### 👨‍💻 Author
 
-**Nishant Kumar**
+**Arshpreet Singh**
 
 B.Tech CSE | Full Stack Developer | Cloud & DevOps Enthusiast
 
-GitHub: https://github.com/nishantdeploys
+GitHub: https://github.com/Arshpreet094
